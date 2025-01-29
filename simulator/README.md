@@ -53,3 +53,5 @@ A cache e as estatísticas são atualizadas automaticamente após cada requisiç
 
 # Resultado
 O programa oferece uma maneira interativa de visualizar como os algoritmos de substituição de cache funcionam, mostrando claramente os impactos de cada política (FIFO, LFU, LRU) e permitindo entender conceitos de Cache HIT e Cache MISS de forma prática.
+
+![Resultado](img4.png)
